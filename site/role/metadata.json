@@ -1,0 +1,9 @@
+{
+  "name": "galaxy-roles",
+  "version": "0.1.0",
+  "author": "Adam",
+  "summary": "Provies role based access to puppet desired state",
+  "source": "https://github.com/acottis",
+  "license": "",
+  "dependencies": []
+}

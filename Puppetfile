@@ -1,0 +1,7 @@
+mod 'puppetlabs-dsc_lite', '3.1.0'
+mod 'puppetlabs-reboot', '4.1.0'
+mod 'puppetlabs-chocolatey', '6.0.1'
+mod 'puppetlabs-powershell', '5.0.0'
+mod 'puppetlabs-pwshlib', '0.10.1'
+mod 'puppetlabs-stdlib', '7.0.0'
+mod 'puppetlabs-registry', '4.0.1'
